@@ -8,7 +8,7 @@ tags: [test]
 comments: true
 ---
 
-<iframe src="https://reso-staging.osc-fr1.scalingo.io/e?institution=collectivite_territoriale_de_martinique" width="100%" height="1750px" frameborder="0"></iframe>
+<iframe src="https://reso-staging.osc-fr1.scalingo.io/e?institution=collectivite_de_martinique" width="100%" height="1750px" frameborder="0"></iframe>
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
